@@ -1,0 +1,13 @@
+{
+    "name": "nodeButton",
+    "version": "1.0.0",
+    "description": "Node Mongo Button Update config",
+    "main": "server.js",
+    "author": "CK",
+    "license": "MIT",
+    "dependencies": {
+        "dotenv": "^8.2.0",
+        "express": "^4.17.1",
+        "mongodb": "2.2.33"
+    }
+}
